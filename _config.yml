@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiangchang Wang / Site Title"
+title                    : "Qiangchang Wang"
 title_separator          : "-"
 name                     : &name "Qiangchang Wang"
 description              : &description "A Ph.D. student at West Virginia University"
