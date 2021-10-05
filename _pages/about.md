@@ -43,14 +43,14 @@ Image and Vision Computing
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304196)
 
 
-LS-CNN: Characterizing Local Patches at Multiple Scales for Face Recognition
-Qiangchang Wang, Guodong Guo
+LS-CNN: Characterizing Local Patches at Multiple Scales for Face Recognition                                                                                       
+Qiangchang Wang, Guodong Guo                                                                                                                                       
 IEEE Transactions on Information Forensics and Security, 2019
 [pdf](https://ieeexplore.ieee.org/abstract/document/8865656)
 
-Face presentation attack detection in mobile scenarios: A comprehensive evaluation
-Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang
-Image and Vision Computing
+Face presentation attack detection in mobile scenarios: A comprehensive evaluation                                                                                 
+Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang                                                                                                               
+Image and Vision Computing                                                                                                                                        
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304196)
 
 Benchmarking Deep Learning Techniques for Face Recognition                                                                                                         
