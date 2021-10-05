@@ -67,3 +67,8 @@ Multiscale rotation-invariant convolutional neural networks for lung texture cla
 Qiangchang Wang, Yuanjie Zheng, Gongping Yang, Weidong Jin, Xinjian Chen, Yilong Yin                                                                               
 IEEE journal of biomedical and health informatics                                                                                                                 
 [pdf](https://ieeexplore.ieee.org/abstract/document/7883849)
+
+Email
+======
+qiangchang.wang@gmail.com
+
