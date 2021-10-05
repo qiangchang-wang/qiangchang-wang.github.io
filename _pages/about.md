@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is Qiangchang Wang, a Ph.D. student in West Virginia University. My research mainly focuses on face recognition, face anti-spoofing, facial expression recognition, and DeepFake detection.
+This is Qiangchang Wang (王强昌), a Ph.D. student in West Virginia University. My research mainly focuses on face recognition, face anti-spoofing, facial expression recognition, and DeepFake detection.
 
 Research
 ======
-AAN-Face: Attention Augmented Networks for Face Recognition
-Qiangchang Wang, Guodong Guo
-IEEE Transactions on Image Processing, 2021
+AAN-Face: Attention Augmented Networks for Face Recognition                                                                                                       
+Qiangchang Wang, Guodong Guo                                                                                                                                       
+IEEE Transactions on Image Processing, 2021                                                                                                                       
 [pdf](https://ieeexplore.ieee.org/abstract/document/9527125)
 
 DSA-Face: Diverse and Sparse Attentions for Face Recognition Robust to Pose Variation and Occlusion
