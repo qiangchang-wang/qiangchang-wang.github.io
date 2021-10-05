@@ -37,34 +37,34 @@ IET Biometrics<br>
 [pdf](https://digital-library.theiet.org/content/journals/10.1049/iet-bmt.2019.0104)
 
 **Face presentation attack detection in mobile scenarios: A comprehensive evaluation**<br>
-Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang
-Image and Vision Computing
+Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang<br>
+Image and Vision Computing<br>
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304196)
 
 
 **LS-CNN: Characterizing Local Patches at Multiple Scales for Face Recognition**<br>
-Qiangchang Wang, Guodong Guo
-IEEE Transactions on Information Forensics and Security, 2019
+Qiangchang Wang, Guodong Guo<br>
+IEEE Transactions on Information Forensics and Security, 2019<br>
 [pdf](https://ieeexplore.ieee.org/abstract/document/8865656)
 
 **Face presentation attack detection in mobile scenarios: A comprehensive evaluation**<br>
-Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang
-Image and Vision Computing
+Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang<br>
+Image and Vision Computing<br>
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304196)
 
 **Benchmarking Deep Learning Techniques for Face Recognition**<br>
-Qiangchang Wang, Guodong Guo
-Journal of Visual Communication and Image Representation
+Qiangchang Wang, Guodong Guo<br>
+Journal of Visual Communication and Image Representation<br>
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S1047320319302846)
 
 **Multi-feature joint dictionary learning for face recognition**<br>
-Meng Yang, Qiangchang Wang, Wei Wen, Zhihui Lai
-2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)
+Meng Yang, Qiangchang Wang, Wei Wen, Zhihui Lai<br>
+2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)<br>
 [pdf](https://ieeexplore.ieee.org/abstract/document/8575896)
 
 **Multiscale rotation-invariant convolutional neural networks for lung texture classification**<br>
-Qiangchang Wang, Yuanjie Zheng, Gongping Yang, Weidong Jin, Xinjian Chen, Yilong Yin
-IEEE journal of biomedical and health informatics
+Qiangchang Wang, Yuanjie Zheng, Gongping Yang, Weidong Jin, Xinjian Chen, Yilong Yin<br>
+IEEE journal of biomedical and health informatics<br>
 [pdf](https://ieeexplore.ieee.org/abstract/document/7883849)
 
 Email
