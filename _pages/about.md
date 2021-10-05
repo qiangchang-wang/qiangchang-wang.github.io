@@ -12,31 +12,31 @@ This is Qiangchang Wang (王强昌), a Ph.D. student at West Virginia University
 
 Research
 ======
-**AAN-Face: Attention Augmented Networks for Face Recognition** <br>                                                                                           *Qiangchang Wang*, Guodong Guo                                                                                                                                       
-IEEE Transactions on Image Processing, 2021                                                                                                                       
+**AAN-Face: Attention Augmented Networks for Face Recognition** <br>                                                                                           **Qiangchang Wang**, Guodong Guo<br>                                                                                                                               
+IEEE Transactions on Image Processing, 2021<br>                                                                                                                   
 [pdf](https://ieeexplore.ieee.org/abstract/document/9527125)
 
-DSA-Face: Diverse and Sparse Attentions for Face Recognition Robust to Pose Variation and Occlusion                                                               
-Qiangchang Wang, Guodong Guo                                                                                                                                       
-IEEE Transactions on Information Forensics and Security, 2021                                                                                                     
+DSA-Face: Diverse and Sparse Attentions for Face Recognition Robust to Pose Variation and Occlusion<br>                                                           
+Qiangchang Wang, Guodong Guo<br>                                                                                                                                   
+IEEE Transactions on Information Forensics and Security, 2021<br>                                                                                                 
 [pdf](https://ieeexplore.ieee.org/abstract/document/9526849)
 
-TransFER: Learning Relation-aware Facial Expression Representations with Transformers                                                                             
-Fanglei Xue, Qiangchang Wang, Guodong Guo                                                                                                                         
-ICCV, 2021                                                                                                                         
+TransFER: Learning Relation-aware Facial Expression Representations with Transformers<br>                                                                         
+Fanglei Xue, Qiangchang Wang, Guodong Guo<br>                                                                                                                     
+ICCV, 2021<br>                                                                                                                         
 [pdf](https://arxiv.org/pdf/2108.11116.pdf)
 
-Hierarchical pyramid diverse attention networks for face recognition                                                                                               
-Qiangchang Wang, Tianyi Wu, He Zheng, Guodong Guo                                                                                                                 
-Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020                                                                           
+Hierarchical pyramid diverse attention networks for face recognition<br>                                                                                           
+Qiangchang Wang, Tianyi Wu, He Zheng, Guodong Guo<br>                                                                                                             
+Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020<br>                                                                       
 [pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Hierarchical_Pyramid_Diverse_Attention_Networks_for_Face_Recognition_CVPR_2020_paper.html)
 
-Discriminative common feature subspace learning for age-invariant face recognition                                                                                 
-Yu-Feng Yu, Qiangchang Wang, Min Jiang                                                                                                                             
-IET Biometrics                                                                                                                                                     
+Discriminative common feature subspace learning for age-invariant face recognition<br>                                                                             
+Yu-Feng Yu, Qiangchang Wang, Min Jiang<br>                                                                                                                         
+IET Biometrics<br>                                                                                                                                                 
 [pdf](https://digital-library.theiet.org/content/journals/10.1049/iet-bmt.2019.0104)
 
-Face presentation attack detection in mobile scenarios: A comprehensive evaluation                                                                                 
+Face presentation attack detection in mobile scenarios: A comprehensive evaluation<br>                                                                             
 Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang                                                                                                               
 Image and Vision Computing                                                                                                                                        
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304196)
