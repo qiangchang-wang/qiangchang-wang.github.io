@@ -53,17 +53,17 @@ Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang
 Image and Vision Computing
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304196)
 
-Benchmarking Deep Learning Techniques for Face Recognition
-Qiangchang Wang, Guodong Guo
-Journal of Visual Communication and Image Representation
+Benchmarking Deep Learning Techniques for Face Recognition                                                                                                         
+Qiangchang Wang, Guodong Guo                                                                                                                                       
+Journal of Visual Communication and Image Representation                                                                                                           
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S1047320319302846)
 
-Multi-feature joint dictionary learning for face recognition
-Meng Yang, Qiangchang Wang, Wei Wen, Zhihui Lai
-2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)
+Multi-feature joint dictionary learning for face recognition                                                                                                       
+Meng Yang, Qiangchang Wang, Wei Wen, Zhihui Lai                                                                                                                   
+2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)                                                                                                       
 [pdf](https://ieeexplore.ieee.org/abstract/document/8575896)
 
-Multiscale rotation-invariant convolutional neural networks for lung texture classification
-Qiangchang Wang, Yuanjie Zheng, Gongping Yang, Weidong Jin, Xinjian Chen, Yilong Yin
-IEEE journal of biomedical and health informatics
+Multiscale rotation-invariant convolutional neural networks for lung texture classification                                                                       
+Qiangchang Wang, Yuanjie Zheng, Gongping Yang, Weidong Jin, Xinjian Chen, Yilong Yin                                                                               
+IEEE journal of biomedical and health informatics                                                                                                                 
 [pdf](https://ieeexplore.ieee.org/abstract/document/7883849)
