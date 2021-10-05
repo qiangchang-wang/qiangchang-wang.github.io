@@ -12,8 +12,7 @@ This is Qiangchang Wang, a Ph.D. student in West Virginia University. My researc
 
 Research
 ======
---AAN-Face: Attention Augmented Networks for Face Recognition
--
+AAN-Face: Attention Augmented Networks for Face Recognition
 Qiangchang Wang, Guodong Guo
 -
 -IEEE Transactions on Image Processing, 2021
@@ -28,5 +27,7 @@ Fanglei Xue, Qiangchang Wang, Guodong Guo
 ICCV, 2021
 
 Hierarchical pyramid diverse attention networks for face recognition
+
 Qiangchang Wang, Tianyi Wu, He Zheng, Guodong Guo
 Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2020
+-[pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Hierarchical_Pyramid_Diverse_Attention_Networks_for_Face_Recognition_CVPR_2020_paper.html)
