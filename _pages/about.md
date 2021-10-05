@@ -12,7 +12,7 @@ This is Qiangchang Wang, a Ph.D. student in West Virginia University. My researc
 
 Research
 ======
--AAN-Face: Attention Augmented Networks for Face Recognition
+--AAN-Face: Attention Augmented Networks for Face Recognition
 -
 Qiangchang Wang, Guodong Guo
 -
