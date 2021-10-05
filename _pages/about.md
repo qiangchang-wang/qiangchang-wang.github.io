@@ -14,7 +14,7 @@ Research
 ======
 -AAN-Face: Attention Augmented Networks for Face Recognition
 -
--Qiangchang Wang, Guodong Guo
+Qiangchang Wang, Guodong Guo
 -
 -IEEE Transactions on Image Processing, 2021
 -[pdf](https://github.com/academicpages/academicpages.github.io)
