@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Qiangchang Wang (王强昌), a Ph.D. student in West Virginia University. My research mainly focuses on face recognition, face anti-spoofing, facial expression recognition, and DeepFake detection.
+This is Qiangchang Wang (王强昌), a Ph.D. student at West Virginia University. My research mainly focuses on face recognition, face anti-spoofing, facial expression recognition, and DeepFake detection.
 
 Research
 ======
