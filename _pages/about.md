@@ -22,7 +22,7 @@ IEEE Transactions on Information Forensics and Security, 2021<br>
 [pdf](https://ieeexplore.ieee.org/abstract/document/9526849)
 
 **TransFER: Learning Relation-aware Facial Expression Representations with Transformers**<br>
-Fanglei Xue, Qiangchang Wang, Guodong Guo<br>
+Fanglei Xue*, Qiangchang Wang*, Guodong Guo (* denotes equal contribution)<br>
 ICCV, 2021<br>
 [pdf](https://arxiv.org/pdf/2108.11116.pdf)
 
