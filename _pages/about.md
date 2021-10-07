@@ -32,8 +32,8 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 [pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Hierarchical_Pyramid_Diverse_Attention_Networks_for_Face_Recognition_CVPR_2020_paper.html)
 
 **Discriminative common feature subspace learning for age-invariant face recognition**<br>
-Yu-Feng Yu, Qiangchang Wang, Min Jiang, 2020<br>
-IET Biometrics<br>
+Yu-Feng Yu, Qiangchang Wang, Min Jiang<br>
+IET Biometrics, 2020<br>
 [pdf](https://digital-library.theiet.org/content/journals/10.1049/iet-bmt.2019.0104)
 
 **Face presentation attack detection in mobile scenarios: A comprehensive evaluation**<br>
