@@ -32,39 +32,33 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 [pdf](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_Hierarchical_Pyramid_Diverse_Attention_Networks_for_Face_Recognition_CVPR_2020_paper.html)
 
 **Discriminative common feature subspace learning for age-invariant face recognition**<br>
-Yu-Feng Yu, Qiangchang Wang, Min Jiang<br>
+Yu-Feng Yu, Qiangchang Wang, Min Jiang, 2020<br>
 IET Biometrics<br>
 [pdf](https://digital-library.theiet.org/content/journals/10.1049/iet-bmt.2019.0104)
 
 **Face presentation attack detection in mobile scenarios: A comprehensive evaluation**<br>
 Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang<br>
-Image and Vision Computing<br>
+Image and Vision Computing, 2020<br>
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304196)
-
 
 **LS-CNN: Characterizing Local Patches at Multiple Scales for Face Recognition**<br>
 Qiangchang Wang, Guodong Guo<br>
 IEEE Transactions on Information Forensics and Security, 2019<br>
 [pdf](https://ieeexplore.ieee.org/abstract/document/8865656)
 
-**Face presentation attack detection in mobile scenarios: A comprehensive evaluation**<br>
-Shan Jia, Guodong Guo, Zhengquan Xu, Qiangchang Wang<br>
-Image and Vision Computing<br>
-[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0262885619304196)
-
 **Benchmarking Deep Learning Techniques for Face Recognition**<br>
 Qiangchang Wang, Guodong Guo<br>
-Journal of Visual Communication and Image Representation<br>
+Journal of Visual Communication and Image Representation, 2019<br>
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S1047320319302846)
 
 **Multi-feature joint dictionary learning for face recognition**<br>
 Meng Yang, Qiangchang Wang, Wei Wen, Zhihui Lai<br>
-2017 4th IAPR Asian Conference on Pattern Recognition (ACPR)<br>
+2017 4th IAPR Asian Conference on Pattern Recognition (ACPR), 2017<br>
 [pdf](https://ieeexplore.ieee.org/abstract/document/8575896)
 
 **Multiscale rotation-invariant convolutional neural networks for lung texture classification**<br>
 Qiangchang Wang, Yuanjie Zheng, Gongping Yang, Weidong Jin, Xinjian Chen, Yilong Yin<br>
-IEEE journal of biomedical and health informatics<br>
+IEEE journal of biomedical and health informatics, 2017<br>
 [pdf](https://ieeexplore.ieee.org/abstract/document/7883849)
 
 Email
