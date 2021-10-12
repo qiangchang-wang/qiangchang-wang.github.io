@@ -24,7 +24,7 @@ IEEE Transactions on Information Forensics and Security, 2021<br>
 **TransFER: Learning Relation-aware Facial Expression Representations with Transformers**<br>
 Fanglei Xue\*, Qiangchang Wang\*, Guodong Guo (* denotes equal contribution)<br>
 ICCV, 2021<br>
-[pdf](https://arxiv.org/pdf/2108.11116.pdf)
+[pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Xue_TransFER_Learning_Relation-Aware_Facial_Expression_Representations_With_Transformers_ICCV_2021_paper.pdf)
 
 **Hierarchical pyramid diverse attention networks for face recognition**<br>
 Qiangchang Wang, Tianyi Wu, He Zheng, Guodong Guo<br>
