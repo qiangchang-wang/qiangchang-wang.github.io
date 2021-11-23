@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Qiangchang Wang (王强昌), a fifth-year CS Ph.D. student at West Virginia University. Before that, I received M.S. from Shandong University in 2016. From June, 2019 to August, 2021, I worked as an research intern in Institue of Deep Learning, Baidu, Beijing. 
+This is Qiangchang Wang (王强昌), a fifth-year CS Ph.D. student at West Virginia University, USA. Before that, I received M.S. from Shandong University, China in 2016. From June, 2019 to August, 2021, I worked as an research intern in Institue of Deep Learning, Baidu, China. 
 
 My research is mostly related to CV/ML. Much of my work relates to digital face processing, including face analysis (face recognition, facial expression recognition, facial quality estimation), the security of face biometric systems (face anti-spoofing, deepfake detection). I also worked on problems related to face generation, action recognition (skeleton-based and video-based), medical image analysis, robotics (SLAM, perception).
 
