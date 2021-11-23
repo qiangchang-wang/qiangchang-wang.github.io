@@ -15,6 +15,10 @@ My research is mostly related to CV/ML. Much of my work relates to digital face 
 ```diff
 I am currently looking for full-time computer vision engineeer/researcher positions in China and United States. You can contact me via email (qiangchang.wang AT gmail.com)
 ```
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 
 Research
 ======
