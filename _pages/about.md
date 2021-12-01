@@ -18,7 +18,7 @@ My research is mostly related to CV/ML. Much of my work relates to digital face 
 Research
 ======
 **CQA-Face: Contrastive Quality-aware Attentions for Face Recognition**<br>                                                                                        Qiangchang Wang, Guodong Guo<br>
-AAAI 2022<br>
+AAAI, 2022<br>
 
 **AAN-Face: Attention Augmented Networks for Face Recognition**<br>                                                                                           Qiangchang Wang, Guodong Guo<br>
 IEEE Transactions on Image Processing, 2021<br>
