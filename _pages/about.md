@@ -20,8 +20,10 @@ Research
 **Learning Multi-granularity Temporal Characteristics for Face Anti-Spoofing**<br>                                                                                  Zhuo Wang\*, Qiangchang Wang\*, Weihong Deng, Guodong Guo (* denotes equal contribution)<br>
 IEEE Transactions on Information Forensics and Security, 2022<br>
 
+
 **CQA-Face: Contrastive Quality-aware Attentions for Face Recognition**<br>                                                                                        Qiangchang Wang, Guodong Guo<br>
 AAAI, 2022<br>
+[pdf](https://aaai-2022.virtualchair.net/poster_aaai5809)
 
 **AAN-Face: Attention Augmented Networks for Face Recognition**<br>                                                                                           Qiangchang Wang, Guodong Guo<br>
 IEEE Transactions on Image Processing, 2021<br>
