@@ -17,6 +17,9 @@ My research is mostly related to CV/ML. Much of my work relates to digital face 
 
 Research
 ======
+**Learning Multi-granularity Temporal Characteristics for Face Anti-Spoofing**<br>                                                                                  Zhuo Wang\*, Qiangchang Wang\*, Weihong Deng, Guodong Guo (* denotes equal contribution)<br>
+IEEE Transactions on Information Forensics and Security, 2022<br>
+
 **CQA-Face: Contrastive Quality-aware Attentions for Face Recognition**<br>                                                                                        Qiangchang Wang, Guodong Guo<br>
 AAAI, 2022<br>
 
